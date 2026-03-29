@@ -15,6 +15,7 @@ Website portfolio sederhana berbasis PHP yang terhubung dengan database MySQL.
 - PHP
 - MySQL
 - Bootstrap 5
+- Laragon
 
 ## Tampilan
 Menampilkan data portfolio yang diambil langsung dari database.
